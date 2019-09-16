@@ -1,0 +1,7 @@
+document.write("Keuze uit 3 soorten pizza's")
+document.write('<br>')
+document.write("Klein" + "  " + "€5,-")
+document.write('<br>')
+document.write("Middel" + "  " + "€7,-")
+document.write('<br>')
+document.write("Groot" + "  " + "€9,-")
